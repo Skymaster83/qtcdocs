@@ -4,6 +4,12 @@
 
 This is a Qlik Application Automation that has been built to automatically generate the documentation of one or more Data Integration Projects built with [Qlik Talend Cloud](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/DataIntegration/Introduction/Data-services.htm). The idea is to fire the automation and select the Project(s) to be documented and the way the user wants to receive the final output: via email or an HTML file saved in a Cloud Storage.
 
+### Screenshots
+
+![Screenshot 2025-02-24 104823](https://github.com/user-attachments/assets/c87aa25b-e6bc-4c33-a342-339720e16a76)
+
+![Screenshot 2025-02-24 105041](https://github.com/user-attachments/assets/79dec844-2e88-46b0-900d-8cd0258fe65a)
+
 ### Installation
 
 1. Download the JSON file provided in this repository
@@ -20,8 +26,8 @@ This is a Qlik Application Automation that has been built to automatically gener
 
 ## Known Issues
 
-Some projects may not have all parts cataloged, therefore some information may be missing from the resulting documentation. This is not due to the automation, but to the way the assets are cataloged in Qlik Talend Cloud.
-
+Some projects may not have all parts cataloged, therefore some information may be missing from the resulting documentation. This is not due to the automation, but to the way the assets are cataloged in Qlik Talend Cloud
+   
 # Authors & Credits
 
 This automation has been created by [Alberto Vaghi](mailto:cii@qlik.com) with the magic support by [Giacomo Brioschi](mailto:fqy@qlik.com).
